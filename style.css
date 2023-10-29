@@ -1,0 +1,61 @@
+/* LAST RULE */
+/*
+P{
+    color: red;
+}
+
+p{
+    color: green;
+}
+
+p{
+    color: blue;
+}
+*/
+
+/* SPECIFICITY */
+/*
+*{
+    color: red !important;
+}
+
+p{
+    color: green;
+}
+
+p{
+    color: blue;
+}
+*/
+
+/* INHERITANCE */
+
+/*
+div{
+    color: blue;
+}
+/*
+
+/*
+p{
+    font-family: cursive;
+    color: inherit;
+}
+*/
+
+/*
+body{
+    font-family: Arial, vredana, sans-serif;
+    color: #665544;
+    border: 1px solid red;
+    padding: 10px;
+}
+*/
+
+/*
+.page{
+    background-color: #efefef;
+    border: inherit;
+    padding: inherit;
+}
+*/
